@@ -136,6 +136,10 @@
     "./utils": {
       "import": "./esm/utils.js",
       "require": "./utils.js"
+    },
+    "./legacy": {
+      "import": "./esm/legacy.js",
+      "require": "./legacy.js"
     }
   },
   "sideEffects": false,
